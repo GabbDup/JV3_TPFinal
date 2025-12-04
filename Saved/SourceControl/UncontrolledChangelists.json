@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/Door_Door_BaseColor.uasset",
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/Door_Door_Normal.uasset",
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/Door_Door_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/02_-_Default.uasset",
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/Door.uasset",
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Fab/Wooden_Door/DoorFrame.uasset"
+			]
+		}
+	]
+}
