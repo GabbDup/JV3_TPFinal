@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/6306282/Documents/GitHub/JV3_TPFinal/Content/Game/Maps/Lvl_Saloon_GDS.umap",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Transmission.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_colt_001.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_eye_cornea_001.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_eye_sclera_001.uasset",
