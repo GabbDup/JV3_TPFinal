@@ -14,7 +14,11 @@
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_legs_001.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_torso_001.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/MI_MaterialInstance_head_001.uasset",
-				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/gun.uasset"
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Mesh/gun/gun.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Actors/BP_Interact_Parent.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/__ExternalActors__/Game/Maps/Lvl_ThirdPerson/9/ZV/ATAHRBE7DGE1L11XOEDLQB.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Materials_Master/M_Material_colt.uasset"
 			]
 		}
 	]
