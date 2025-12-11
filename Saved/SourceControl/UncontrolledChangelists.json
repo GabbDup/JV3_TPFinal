@@ -18,7 +18,23 @@
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Interfaces/BPI_Interactable.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Actors/BP_Interact_Parent.uasset",
 				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/__ExternalActors__/Game/Maps/Lvl_ThirdPerson/9/ZV/ATAHRBE7DGE1L11XOEDLQB.uasset",
-				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Materials_Master/M_Material_colt.uasset"
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Fab/Cowboy_character/Materials_Master/M_Material_colt.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Pawns_Characters/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Blueprints/Actors/BP_Gun.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_colt_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_eye_cornea_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_eye_sclera_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_hair_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_hands_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_head_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_holster_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_legs_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/Materials/MI_MaterialInstance_torso_001.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/gun.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/SK_gun.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/Game/Meshes/Gun/SKM_gun.uasset",
+				"C:/Users/1324487/Desktop/JV3_TPFinal/Content/__ExternalActors__/Game/Maps/Lvl_ThirdPerson/6/EQ/5RTWOL91SORJBNV4FEYY2F.uasset"
 			]
 		}
 	]
